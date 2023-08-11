@@ -3,7 +3,7 @@
 I'm a high school student from San Francisco who likes to code, play the piano, and take care of chickens. 
 
 ## Skills
-**Languages:** Python, JavaScript/TypeScript, Rust, C++, Java
+**Languages:** Python, JavaScript/TypeScript, Rust, Go, C++, Java
 
 **Frontend:** HTML, CSS, Rust WebAssembly, Svelte, Vue, Chrome Extensions
 - [Personal website](https://github.com/Ashwagandhae/website)
