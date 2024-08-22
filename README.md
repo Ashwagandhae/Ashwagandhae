@@ -1,12 +1,11 @@
 # Hi, I'm Julian
 
-I'm a high school senior from San Francisco who likes to code and take care of chickens. 
+I'm a college 1st year at Georgia Tech from San Francisco who likes to code and take care of chickens. 
 
 ## Skills
 **Languages:** Python, JavaScript/TypeScript, Rust, Go, C++, Java
 
 **Frontend:** HTML, CSS, Rust WebAssembly, Svelte, Vue, Chrome Extensions
-- [Personal website](https://github.com/Ashwagandhae/website)
 - [Debate flowing app](https://github.com/Ashwagandhae/debate-flow)
 - [Evidence gathering extension](https://github.com/Ashwagandhae/evidencer)
 - [Baking recipes](https://github.com/Ashwagandhae/oma-recipe)
