@@ -1,6 +1,6 @@
 # Hi, I'm Julian
 
-I'm a college 1st year at Georgia Tech from San Francisco who likes to code and take care of chickens. 
+I'm a college 2nd year at Georgia Tech from San Francisco who likes to code and take care of chickens. 
 
 ## Skills
 **Languages:** Python, JavaScript/TypeScript, Rust, Go, C++, Java
