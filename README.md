@@ -1,5 +1,7 @@
 # Hi, I'm Julian
 
+[Personal Website](https://www.julianlbauer.com/)
+
 I'm a college 2nd year at Georgia Tech from San Francisco who likes to code and take care of chickens. 
 
 ## Skills
