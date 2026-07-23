@@ -5,7 +5,7 @@
 I'm a college 2nd year at Georgia Tech from San Francisco who likes to code and take care of chickens. 
 
 ## Skills
-**Languages:** Python, JavaScript/TypeScript, Rust, Go, C++, Java
+**Languages:** Rust, Typst, Python, JavaScript/TypeScript, Go, C++, Java
 
 **Frontend:** HTML, CSS, Rust WebAssembly, Svelte, Vue, Chrome Extensions
 - [Debate flowing app](https://github.com/Ashwagandhae/debate-flow)
