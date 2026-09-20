@@ -2,7 +2,7 @@
 
 [Personal Website](https://www.julianlbauer.com/)
 
-I'm a college 2nd year at Georgia Tech from San Francisco who likes to code and take care of chickens. 
+I'm a college 3rd year at Georgia Tech from San Francisco who likes to code and take care of chickens. 
 
 ## Skills
 **Languages:** Rust, Typst, Python, JavaScript/TypeScript, Go, C++, Java
